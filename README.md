@@ -1,3 +1,4 @@
+<img alt="img" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 # 💫 About Me:
 Hi, I'm Seeranjeevi! 👋<br><br>I'm a frontend developer with a passion for building dynamic and responsive web applications. With experience in React, Angular, and Node.js, I love creating seamless user experiences and optimizing performance. I'm also skilled in MongoDB, Firebase, and various front-end technologies like Tailwind CSS and Material UI
 
